@@ -1,2 +1,2 @@
 # calculadora-imc-react
-Calcula IMC em React
+Calculadora IMC em React
